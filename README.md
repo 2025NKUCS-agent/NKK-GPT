@@ -1,25 +1,25 @@
-# NKK-GPT
+# NKK-GPT 🚀
 
 ## 1. Overview
 
 NKK-GPT is a powerful intelligent agent system integrating multiple advanced capabilities:
 
 ### 1.1 Core Features
-- **Code generation & review**
-- **Intelligent file operations**
-- **Multi-model collaborative processing**
-- **Sandbox environment execution**
-- **Git version control integration**
+- **Code generation & review** 💻
+- **Intelligent file operations** 📂
+- **Multi-model collaborative processing** 🤖🤝
+- **Sandbox environment execution** 🧑‍💻
+- **Git version control integration** 🗂️
 
 ### 1.2 Technical Highlights
-- **Tool management** via MCP (Model Control Protocol)
-- **Asynchronous parallel processing architecture**
-- **Multi-agent collaboration system**
-- **Secure sandbox execution environment**
+- **Tool management** via MCP (Model Control Protocol) 🛠️
+- **Asynchronous parallel processing architecture** ⏳
+- **Multi-agent collaboration system** 🤖👥
+- **Secure sandbox execution environment** 🛡️
 
 ---
 
-## 2. Installation
+## 2. Installation ⚙️
 
 Clone the project from GitHub using:
 
@@ -28,7 +28,7 @@ git clone https://github.com/2025NKUCS-agent/NKK-GPT.git
 ```
 
 ### Requirements:
-- **Python Version**: Python 3.9+ (recommended)
+- **Python Version**: Python 3.9+ (recommended) 🐍
 - **Dependencies**: Install required packages via:
 
 ```bash
@@ -38,7 +38,7 @@ pip install -e .
 
 ---
 
-## 3. Running the Project
+## 3. Running the Project 🏃‍♂️
 
 ### Configuration:
 Set parameters (API keys, model names, etc.) in the `config` directory.
@@ -52,7 +52,7 @@ nkkagent
 
 ---
 
-## 4. Project Structure
+## 4. Project Structure 📂
 
 ```
 nkkagent/
@@ -66,9 +66,9 @@ nkkagent/
 
 ---
 
-## 5. Contribution Guidelines
+## 5. Contribution Guidelines 🤝
 
 To contribute:
-1. Fork the repository
-2. Create a new development branch
-3. Submit a Pull Request with your changes
+1. Fork the repository 🍴
+2. Create a new development branch 🌱
+3. Submit a Pull Request with your changes 🔄
