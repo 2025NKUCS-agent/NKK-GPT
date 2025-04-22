@@ -41,13 +41,13 @@ pip install -e .
 ## 3. Running the Project 🏃‍♂️
 
 ### Configuration:
-Set parameters (API keys, model names, etc.) in the `config` directory.
+Set parameters (API keys, model names, etc.) in the `config/config.toml` directory.
 
 ### Launch:
 Start the system with:
 
 ```bash
-nkkagent
+python main.py
 ```
 
 ---
