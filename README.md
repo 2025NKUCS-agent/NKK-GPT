@@ -47,6 +47,8 @@ Set parameters (API keys, model names, etc.) in the `config/config.toml` directo
 Start the system with:
 
 ```bash
+python setup.py build
+python setup.py install
 python main.py
 ```
 
