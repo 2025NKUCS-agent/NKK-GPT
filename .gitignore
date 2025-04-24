@@ -186,3 +186,5 @@ cov.xml
 /examples/
 /logs/
 /nkkagent/skill/mutil_thoughts/
+/nkkagent/tools/memory.json
+logs.txt
